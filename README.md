@@ -22,6 +22,6 @@
  
 <div> 
 
-  <p><img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> patrickleao83@gmail.com </p>
+  <p><img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> mayuleao@gmail.com </p>
 
 </div>
