@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😊
 
  <div>
-   <a href="https://github.com/patleao83">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patleao83&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patleao83&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/mayuleao">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayuleao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuleao&layout=compact&langs_count=6&theme=tokyonight"/>
     
 <br>
 </div>
@@ -22,6 +22,6 @@
  
 <div> 
 
-  <p><img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> mayuleao@gmail.com </p>
+ <p><img height="20" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> patrickleao83@gmail.com </p>
 
 </div>
